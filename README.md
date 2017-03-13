@@ -9,3 +9,4 @@ Alle Vorträge sind (c) Mikka Luster \<[mikka@mikka.is][1]\>, dürfen aber unter
 
 [1]:	mailto:mikka@mikka.is
 [2]:	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
