@@ -3,12 +3,13 @@
 
 *  [http://journal.frontiersin.org/article/10.3389/fnhum.2015.00071/full][1] - Was im Hirn vor sich geht, wenn man verliebt ist, und wie genau das gemessen wurde.
 * [Predator Cat Odors Activate Sexual Arousal Pathways in Brains of Toxoplasma gondii Infected Rats][2]
-* [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023866][3]- The Neurotropic Parasite Toxoplasma Gondii Increases Dopamine Metabolism
-* [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169943][4]- Executive Functioning in Men with Schizophrenia and Substance Use Disorders. Influence of Lifetime Suicide Attempts
-* [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171724][5]- Changes in brain activation in breast cancer patients depend on cognitive domain and treatment type
+* [The Neurotropic Parasite Toxoplasma Gondii Increases Dopamine Metabolism][3]
+* [Executive Functioning in Men with Schizophrenia and Substance Use Disorders. Influence of Lifetime Suicide Attempts][4]- Executive Functioning in Men with Schizophrenia and Substance Use Disorders. Influence of Lifetime Suicide Attempts
+* [Changes in brain activation in breast cancer patients depend on cognitive domain and treatment type][5]- 
 *  [https://www.quora.com/Why-does-orange-juice-taste-bad-right-after-I-brush-my-teeth/answers/440621][6] - Warum OJ scheiße schmeckt, nachdem man sich die Zähne geputzt hat
 * [http://pubs.acs.org/doi/abs/10.1021/bk-1985-0289.ch002][7]- Substances That Modify the Perception of Sweetness
-
+* [Uncovering the mechanism(s) of action of deep brain stimulation: activation, inhibition, or both][8]
+* [Differential Roles of GABAA Receptor Subtypes in Benzodiazepine-Induced Enhancement of Brain-Stimulation Reward][9]
 
 
 
@@ -19,3 +20,6 @@
 [5]:	http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171724
 [6]:	https://www.quora.com/Why-does-orange-juice-taste-bad-right-after-I-brush-my-teeth/answers/440621
 [7]:	http://pubs.acs.org/doi/abs/10.1021/bk-1985-0289.ch002 "Substances That Modify the Perception of Sweetness"
+[8]:	http://www.unifr.ch/inph/vclab/assets/files/PDFs/DBS.mechansisms.review.pdf
+[9]:	http://www.nature.com/npp/journal/v37/n11/abs/npp2012115a.html
+
