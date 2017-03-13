@@ -6,8 +6,8 @@
 * [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023866][3]- The Neurotropic Parasite Toxoplasma Gondii Increases Dopamine Metabolism
 * [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169943][4]- Executive Functioning in Men with Schizophrenia and Substance Use Disorders. Influence of Lifetime Suicide Attempts
 * [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171724][5]- Changes in brain activation in breast cancer patients depend on cognitive domain and treatment type
-*  
-
+*  [https://www.quora.com/Why-does-orange-juice-taste-bad-right-after-I-brush-my-teeth/answers/440621][6] - Warum OJ scheiße schmeckt, nachdem man sich die Zähne geputzt hat
+* [http://pubs.acs.org/doi/abs/10.1021/bk-1985-0289.ch002][7]- Substances That Modify the Perception of Sweetness
 
 
 
@@ -17,3 +17,5 @@
 [3]:	http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023866
 [4]:	http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169943
 [5]:	http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171724
+[6]:	https://www.quora.com/Why-does-orange-juice-taste-bad-right-after-I-brush-my-teeth/answers/440621
+[7]:	http://pubs.acs.org/doi/abs/10.1021/bk-1985-0289.ch002 "Substances That Modify the Perception of Sweetness"
