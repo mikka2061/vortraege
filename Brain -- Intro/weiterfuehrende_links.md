@@ -11,6 +11,13 @@
 * [Uncovering the mechanism(s) of action of deep brain stimulation: activation, inhibition, or both][8]
 * [Differential Roles of GABAA Receptor Subtypes in Benzodiazepine-Induced Enhancement of Brain-Stimulation Reward][9]
 
+## Zum Bayes'schen Gehirn
+* [Das bayesianische Gehirn][10]
+* [Knowing how much you don't know: a neural organization of uncertainty estimates][11]
+* [Humans integrate visual and haptic information in a statistically optimal fashion][12]
+* [Near Optimal Combination of Sensory and Motor Uncertainty in Time During a Naturalistic Perception-Action Task][13]
+* [Das Bayestheorem und der Base-Rate-Fehlschluss][14]
+
 
 
 [1]:	http://journal.frontiersin.org/article/10.3389/fnhum.2015.00071/full
@@ -22,4 +29,8 @@
 [7]:	http://pubs.acs.org/doi/abs/10.1021/bk-1985-0289.ch002 "Substances That Modify the Perception of Sweetness"
 [8]:	http://www.unifr.ch/inph/vclab/assets/files/PDFs/DBS.mechansisms.review.pdf
 [9]:	http://www.nature.com/npp/journal/v37/n11/abs/npp2012115a.html
-
+[10]:	http://www.spektrum.de/magazin/das-bayesianische-gehirn/1214040
+[11]:	http://www.nature.com/nrn/journal/v13/n8/pdf/nrn3289.pdf
+[12]:	http://www.nature.com/nature/journal/v415/n6870/pdf/415429a.pdf
+[13]:	http://jn.physiology.org/content/101/4/1901
+[14]:	http://gbs-schweiz.org/blog/das-bayestheorem-und-der-base-rate-fehlschluss/
