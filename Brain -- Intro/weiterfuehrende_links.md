@@ -19,7 +19,6 @@
 * [Das Bayestheorem und der Base-Rate-Fehlschluss][14]
 
 
-
 [1]:	http://journal.frontiersin.org/article/10.3389/fnhum.2015.00071/full
 [2]:	http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023277 "Predator Cat Odors Activate Sexual Arousal Pathways in Brains of Toxoplasma gondii Infected Rats"
 [3]:	http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023866
@@ -34,3 +33,4 @@
 [12]:	http://www.nature.com/nature/journal/v415/n6870/pdf/415429a.pdf
 [13]:	http://jn.physiology.org/content/101/4/1901
 [14]:	http://gbs-schweiz.org/blog/das-bayestheorem-und-der-base-rate-fehlschluss/
+
