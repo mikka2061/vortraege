@@ -1,4 +1,8 @@
 # Vorträge.
+**resources\_general** — Resourcen, die ich immer mal wieder erwähne.
+## Allgemein
+### Zombies
+Katastrophenschutz, Zombies, Katzen, und Du.
 ## Neuro, Neuropsych
 ### Brain-Intro
 Intro-Vortrag über das Gehirn und die Programmierung desselbenn. Konzept
@@ -13,6 +17,5 @@ werden. Bilder in Slides sind entweder mit Genehmigung oder aus der
 Public Domain entnommen.
 
 
-[1]:mailto:mikka@mikka.is
-[2]:https://creativecommons.org/licenses/by-nc-sa/4.0/
-
+[1]:	mailto:mikka@mikka.is
+[2]:	https://creativecommons.org/licenses/by-nc-sa/4.0/
